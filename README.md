@@ -72,3 +72,7 @@ Run the following commands according to how you want your videos to be downloade
 * Any link that had an error will be logged in an errors.txt file.
 
 <a href="https://www.buymeacoffee.com/xsrazy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+## License
+
+MIT License. See [LICENSE](LICENSE) for details.
